@@ -1,0 +1,27 @@
+{
+  "name": "google-translate-cn-api",
+  "version": "1.0.7",
+  "description": "google translate api for chinese",
+  "main": "./lib/index.js",
+  "dependencies": {
+    "request-promise": "^4.2.6",
+    "request": "^2.88.2"
+  },
+  "bin": {
+    "translate": "./bin/translate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqqyt2423/google-translate-cn-api.git"
+  },
+  "keywords": [
+    "google",
+    "translate"
+  ],
+  "author": "liqiqiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lqqyt2423/google-translate-cn-api/issues"
+  },
+  "homepage": "https://github.com/lqqyt2423/google-translate-cn-api#readme"
+}
